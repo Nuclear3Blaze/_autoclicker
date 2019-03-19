@@ -1,0 +1,2 @@
+# _autoclicker
+An autoclicker.
