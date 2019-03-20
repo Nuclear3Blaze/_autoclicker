@@ -1,0 +1,13 @@
+This is a list of all the third party libraries you may need to install into your
+default python directory if they don't already exist in order for the autoclicker
+to work:
+
+Library				Website Download
+----------------------------------------------------------------------------------
+cv2				https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+keyboard			https://pypi.org/project/keyboard/#files
+numpy				https://pypi.org/project/numpy/#files
+PIL				https://pypi.org/project/Pillow/#files
+pyautogui			https://pypi.org/project/PyAutoGUI/#files
+pygame				https://www.pygame.org/download.shtml
+----------------------------------------------------------------------------------
